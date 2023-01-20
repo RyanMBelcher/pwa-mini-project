@@ -4,7 +4,7 @@
 
 ## Description
 
-
+This project took an existing app and refactored it into a progressive web app. The app uses IndexedDB to store, retrieve and update data.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ The user will need to install node.js with the following dependencies.
 
 ## Usage
 
-![screenshot of app]()
+![screenshot of app](./assets/images/app_screenshot.png)
 
 This application is deployed [here](https://still-fortress-32651.herokuapp.com/).
 
